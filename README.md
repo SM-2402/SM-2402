@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Mishra</h1>
-<h3 align="center">A second year student at tiet.</h3>
+<h3 align="center">A second year CSE student at tiet.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-2402&label=Profile%20views&color=0e75b6&style=flat" alt="sm-2402" /> </p>
 
